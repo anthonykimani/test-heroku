@@ -1,0 +1,507 @@
+{
+  "stories": [
+    {},
+    {
+      "image": "../images/close-up-picnic-near-eiffel-tower.jpg",
+      "alt": "picnic in france"
+    },
+    {
+      "image": "../images/profile.jpg",
+      "alt": "profile pic"
+    },
+    {},
+    {
+      "image": "../images/young-woman-wearing-orange-dress-with-turban-ethnic-jewelry.jpg",
+      "alt": "young woman"
+    }
+  ],
+  "messages": [
+    {
+      "name": "Sheila Nyambura",
+      "message": "Are you up for Drinks"
+    },
+    {
+      "name": "Donis Mweu",
+      "message": "Hey Bro, I deleted the Database!"
+    },
+    {
+      "name": "Amos John",
+      "message": "I saw your Profile and think you're a good fit.."
+    },
+    {
+      "name": "Wairimu Shiro",
+      "message": "Please check the Designs I sent"
+    }
+  ],
+  "posts": [
+    {
+      "name": "John Kamau",
+      "location": "Nairobi",
+      "profile": "/young-woman-wearing-orange-dress-with-turban-ethnic-jewelry.jpg",
+      "image": "/summer-time-beach-night.jpg",
+      "alt": "summer time",
+      "time": "16mins ago",
+      "likes": 26,
+      "commentList": [
+        {
+          "comment": "Looking great"
+        },
+        {
+          "comment": "Wow I like the view"
+        },
+        {
+          "comment": "Haha , that was fun"
+        }
+      ]
+    },
+    {
+      "name": "Brian Wandego",
+      "location": "Arusha",
+      "profile": "/close-up-model-wearing-make-up.jpg",
+      "image": "/close-up-picnic-near-eiffel-tower.jpg",
+      "alt": "model with make up",
+      "time": "6mins ago",
+      "likes": 40,
+      "commentList": [
+        {
+          "comment": "What a Sunset"
+        },
+        {
+          "comment": "On my bucket list"
+        },
+        {
+          "comment": "I need this"
+        }
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "comment": "Is that a guitar",
+      "id": 1
+    }
+  ],
+  "addpost": [],
+  "friends": [
+    {
+      "name": "Amos John",
+      "status": true,
+      "mutuals": 32,
+      "id": 1
+    },
+    {
+      "name": "Joseph Prea",
+      "status": true,
+      "mutuals": 21,
+      "id": 2
+    },
+    {
+      "name": "Amos John",
+      "status": true,
+      "mutuals": 52,
+      "id": 3
+    },
+    {
+      "name": "Amos John",
+      "status": true,
+      "mutuals": 10,
+      "id": 4
+    },
+    {
+      "name": "Amos John",
+      "status": true,
+      "mutuals": 12,
+      "id": 5
+    },
+    {
+      "name": "Amos John",
+      "status": true,
+      "mutuals": 32,
+      "id": 6
+    },
+    {
+      "name": "Amos John",
+      "status": true,
+      "mutuals": 23,
+      "id": 7
+    },
+    {
+      "name": "Amos John",
+      "status": true,
+      "mutuals": 54,
+      "id": 8
+    },
+    {
+      "name": "Amos John",
+      "status": true,
+      "mutuals": 36,
+      "id": 9
+    },
+    {
+      "name": "Amos John",
+      "status": true,
+      "mutuals": 33,
+      "id": 10
+    },
+    {
+      "name": "Amos John",
+      "status": true,
+      "mutuals": 32,
+      "id": 11
+    },
+    {
+      "name": "Amos John",
+      "status": true,
+      "mutuals": 32,
+      "id": 12
+    },
+    {
+      "name": "Amos John",
+      "status": true,
+      "mutuals": 32,
+      "id": 13
+    },
+    {
+      "name": "Amos John",
+      "status": true,
+      "mutuals": 32,
+      "id": 14
+    },
+    {
+      "name": "Amos John",
+      "status": true,
+      "mutuals": 32,
+      "id": 15
+    },
+    {
+      "name": "Amos John",
+      "status": true,
+      "mutuals": 32,
+      "id": 16
+    }
+  ],
+  "requests": [
+    {
+      "name": "Amos John",
+      "status": true,
+      "mutuals": 36,
+      "id": 9
+    },
+    {
+      "name": "Amos John",
+      "status": true,
+      "mutuals": 33,
+      "id": 10
+    },
+    {
+      "name": "Amos John",
+      "status": true,
+      "mutuals": 32,
+      "id": 11
+    },
+    {
+      "name": "Amos John",
+      "status": true,
+      "mutuals": 32,
+      "id": 12
+    },
+    {
+      "name": "Amos John",
+      "status": true,
+      "mutuals": 32,
+      "id": 13
+    },
+    {
+      "name": "Amos John",
+      "status": true,
+      "mutuals": 32,
+      "id": 14
+    },
+    {
+      "name": "Amos John",
+      "status": true,
+      "mutuals": 32,
+      "id": 15
+    },
+    {
+      "name": "Amos John",
+      "status": true,
+      "mutuals": 32,
+      "id": 16
+    }
+  ],
+  "settings": [
+    {
+      "title": "Name",
+      "name": "Johnathan Kemboi",
+      "button": "edit"
+    },
+    {
+      "title": "Username",
+      "name": "https://jirani-social/Kemboi99",
+      "button": "edit"
+    },
+    {
+      "title": "Contact",
+      "name": "Primary",
+      "button": "edit"
+    },
+    {
+      "title": "Privacy",
+      "name": "Who can see your profile",
+      "button": "edit"
+    },
+    {
+      "title": "2-factor-authentication",
+      "name": "JohnathanKemboi@gmail.com",
+      "button": "edit"
+    },
+    {
+      "title": "Security",
+      "name": "confirm password",
+      "button": "edit"
+    }
+  ],
+  "trending": [
+    {
+      "topic": "movies",
+      "image": "/young-woman-wearing-orange-dress-with-turban-ethnic-jewelry.jpg",
+      "post": "The Vampire Diaries is always my favorite but I never get to watch it anymore because I don't have Netflix but I'm definitely going to watch it again when I have Netflix.",
+      "name": "Donis Mweu",
+      "time": "25 mins ago",
+      "likes": 32,
+      "commentNumber": 21,
+      "shares": 12,
+      "comments": [
+        {
+          "commenter": "Anna chopra",
+          "comment": "I know this is a series, but I love it too much not to share: Band of Brothers."
+        },
+        {
+          "commenter": "Victoria Saha",
+          "comment": "The ending is totally unexpected Best survival movie Movie story is slow"
+        },
+        {
+          "commenter": "Dennis Shakav",
+          "comment": "Tom Cruise Stunt and fighting are realistic AF change my mind Gray man hand to hand combat were so corny"
+        }
+      ]
+    },
+    {
+      "topic": "movies",
+      "image": "",
+      "post": "The Vampire Diaries is always my favorite but I never get to watch it anymore because I don't have Netflix but I'm definitely going to watch it again when I have Netflix.",
+      "name": "Donis Mweu",
+      "time": "25 mins ago",
+      "likes": 32,
+      "commentNumber": 21,
+      "shares": 12,
+      "comments": [
+        {
+          "commenter": "Anna chopra",
+          "comment": "I know this is a series, but I love it too much not to share: Band of Brothers."
+        },
+        {
+          "commenter": "Victoria Saha",
+          "comment": "The ending is totally unexpected Best survival movie Movie story is slow"
+        },
+        {
+          "commenter": "Dennis Shakav",
+          "comment": "Tom Cruise Stunt and fighting are realistic AF change my mind Gray man hand to hand combat were so corny"
+        }
+      ]
+    },
+    {
+      "topic": "movies",
+      "image": "",
+      "post": "The Vampire Diaries is always my favorite but I never get to watch it anymore because I don't have Netflix but I'm definitely going to watch it again when I have Netflix.",
+      "name": "Donis Mweu",
+      "time": "25 mins ago",
+      "likes": 32,
+      "commentNumber": 21,
+      "shares": 12,
+      "comments": [
+        {
+          "commenter": "Anna chopra",
+          "comment": "I know this is a series, but I love it too much not to share: Band of Brothers."
+        },
+        {
+          "commenter": "Victoria Saha",
+          "comment": "The ending is totally unexpected Best survival movie Movie story is slow"
+        },
+        {
+          "commenter": "Dennis Shakav",
+          "comment": "Tom Cruise Stunt and fighting are realistic AF change my mind Gray man hand to hand combat were so corny"
+        }
+      ]
+    },
+    {
+      "topic": "movies",
+      "image": "",
+      "post": "The Vampire Diaries is always my favorite but I never get to watch it anymore because I don't have Netflix but I'm definitely going to watch it again when I have Netflix.",
+      "name": "Donis Mweu",
+      "time": "25 mins ago",
+      "likes": 32,
+      "commentNumber": 21,
+      "shares": 12,
+      "comments": [
+        {
+          "commenter": "Anna chopra",
+          "comment": "I know this is a series, but I love it too much not to share: Band of Brothers."
+        },
+        {
+          "commenter": "Victoria Saha",
+          "comment": "The ending is totally unexpected Best survival movie Movie story is slow"
+        },
+        {
+          "commenter": "Dennis Shakav",
+          "comment": "Tom Cruise Stunt and fighting are realistic AF change my mind Gray man hand to hand combat were so corny"
+        }
+      ]
+    },
+    {
+      "topic": "movies",
+      "image": "",
+      "post": "The Vampire Diaries is always my favorite but I never get to watch it anymore because I don't have Netflix but I'm definitely going to watch it again when I have Netflix.",
+      "name": "Donis Mweu",
+      "time": "25 mins ago",
+      "likes": 32,
+      "commentNumber": 21,
+      "shares": 12,
+      "comments": [
+        {
+          "commenter": "Anna chopra",
+          "comment": "I know this is a series, but I love it too much not to share: Band of Brothers."
+        },
+        {
+          "commenter": "Victoria Saha",
+          "comment": "The ending is totally unexpected Best survival movie Movie story is slow"
+        },
+        {
+          "commenter": "Dennis Shakav",
+          "comment": "Tom Cruise Stunt and fighting are realistic AF change my mind Gray man hand to hand combat were so corny"
+        }
+      ]
+    },
+    {
+      "topic": "movies",
+      "image": "",
+      "post": "The Vampire Diaries is always my favorite but I never get to watch it anymore because I don't have Netflix but I'm definitely going to watch it again when I have Netflix.",
+      "name": "Donis Mweu",
+      "time": "25 mins ago",
+      "likes": 32,
+      "commentNumber": 21,
+      "shares": 12,
+      "comments": [
+        {
+          "commenter": "Anna chopra",
+          "comment": "I know this is a series, but I love it too much not to share: Band of Brothers."
+        },
+        {
+          "commenter": "Victoria Saha",
+          "comment": "The ending is totally unexpected Best survival movie Movie story is slow"
+        },
+        {
+          "commenter": "Dennis Shakav",
+          "comment": "Tom Cruise Stunt and fighting are realistic AF change my mind Gray man hand to hand combat were so corny"
+        }
+      ]
+    },
+    {
+      "topic": "movies",
+      "image": "",
+      "post": "The Vampire Diaries is always my favorite but I never get to watch it anymore because I don't have Netflix but I'm definitely going to watch it again when I have Netflix.",
+      "name": "Donis Mweu",
+      "time": "25 mins ago",
+      "likes": 32,
+      "commentNumber": 21,
+      "shares": 12,
+      "comments": [
+        {
+          "commenter": "Anna chopra",
+          "comment": "I know this is a series, but I love it too much not to share: Band of Brothers."
+        },
+        {
+          "commenter": "Victoria Saha",
+          "comment": "The ending is totally unexpected Best survival movie Movie story is slow"
+        },
+        {
+          "commenter": "Dennis Shakav",
+          "comment": "Tom Cruise Stunt and fighting are realistic AF change my mind Gray man hand to hand combat were so corny"
+        }
+      ]
+    },
+    {
+      "topic": "movies",
+      "image": "",
+      "post": "The Vampire Diaries is always my favorite but I never get to watch it anymore because I don't have Netflix but I'm definitely going to watch it again when I have Netflix.",
+      "name": "Donis Mweu",
+      "time": "25 mins ago",
+      "likes": 32,
+      "commentNumber": 21,
+      "shares": 12,
+      "comments": [
+        {
+          "commenter": "Anna chopra",
+          "comment": "I know this is a series, but I love it too much not to share: Band of Brothers."
+        },
+        {
+          "commenter": "Victoria Saha",
+          "comment": "The ending is totally unexpected Best survival movie Movie story is slow"
+        },
+        {
+          "commenter": "Dennis Shakav",
+          "comment": "Tom Cruise Stunt and fighting are realistic AF change my mind Gray man hand to hand combat were so corny"
+        }
+      ]
+    },
+    {
+      "topic": "movies",
+      "image": "",
+      "post": "The Vampire Diaries is always my favorite but I never get to watch it anymore because I don't have Netflix but I'm definitely going to watch it again when I have Netflix.",
+      "name": "Donis Mweu",
+      "time": "25 mins ago",
+      "likes": 32,
+      "commentNumber": 21,
+      "shares": 12,
+      "comments": [
+        {
+          "commenter": "Anna chopra",
+          "comment": "I know this is a series, but I love it too much not to share: Band of Brothers."
+        },
+        {
+          "commenter": "Victoria Saha",
+          "comment": "The ending is totally unexpected Best survival movie Movie story is slow"
+        },
+        {
+          "commenter": "Dennis Shakav",
+          "comment": "Tom Cruise Stunt and fighting are realistic AF change my mind Gray man hand to hand combat were so corny"
+        }
+      ]
+    },
+    {
+      "topic": "movies",
+      "image": "",
+      "post": "The Vampire Diaries is always my favorite but I never get to watch it anymore because I don't have Netflix but I'm definitely going to watch it again when I have Netflix.",
+      "name": "Donis Mweu",
+      "time": "25 mins ago",
+      "likes": 32,
+      "commentNumber": 21,
+      "shares": 12,
+      "comments": [
+        {
+          "commenter": "Anna chopra",
+          "comment": "I know this is a series, but I love it too much not to share: Band of Brothers."
+        },
+        {
+          "commenter": "Victoria Saha",
+          "comment": "The ending is totally unexpected Best survival movie Movie story is slow"
+        },
+        {
+          "commenter": "Dennis Shakav",
+          "comment": "Tom Cruise Stunt and fighting are realistic AF change my mind Gray man hand to hand combat were so corny"
+        }
+      ]
+    }
+  ]
+}
